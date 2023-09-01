@@ -8,7 +8,7 @@ During my transformative web development internship at Bharat Intern, I embarked
 
 ## Key Features
 
-✨ **GitHub Repository**: [GitHub Repo Link](GitHub Repo Link)
+✨ **GitHub Repository**: [GitHub Repo Link](https://github.com/Tejaspadwal5410/Clone)
 Explore the project's source code and development process.
 
 🌐 **Live Demo**: [Live Demo Link](https://tejaspadwal5410.github.io/Clone/)
