@@ -10,17 +10,4 @@
   
  🔧 Contributions and feedback are welcome! 
   
- ## Screenshots 
-  
- ![Homepage](Screenshots/Screenshot1.png) 
- ![Feature1](Screenshots/Screenshot2.png) 
- ![Feature2](Screenshots/Screenshot3.png) 
- ![Feature3](Screenshots/Screenshot4.png) 
- ![Feature4](Screenshots/Screenshot5.png) 
- ![FAQ](Screenshots/Screenshot6.png) 
- ![Footer](Screenshots/Screenshot7.png) 
-  
-  
- ## License 
-  
- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
