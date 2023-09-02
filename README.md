@@ -4,7 +4,7 @@
   
  **Tech Stack:** HTML, CSS, JavaScript 
   
- 🚀 **Check out the live demo:** [Live Demo Link](https://sujit-rakshe.github.io/Clone) 
+ 🚀 **Check out the live demo:** [Live Demo Link](https://tejaspadwal5410.github.io/Clone/) 
   
  📝 This project is developed for learning purposes and to demonstrate my skills in frontend web development. 
   
